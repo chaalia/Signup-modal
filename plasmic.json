@@ -31,7 +31,8 @@
       "icons": [],
       "images": [],
       "indirect": true,
-      "codeComponents": []
+      "codeComponents": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "kjuFFTSZb8fanzCHT2C1jz",
@@ -1444,7 +1445,8 @@
         }
       ],
       "indirect": true,
-      "codeComponents": []
+      "codeComponents": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "iX1qkSjgNN2uqWdAcYpiJf",
