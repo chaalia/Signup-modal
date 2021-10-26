@@ -1,0 +1,51 @@
+.root {
+  display: flex;
+  position: relative;
+  width: 100%;
+  flex-direction: column;
+  min-width: 0;
+}
+.freeBox__u8Eqq {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.freeBox__u8Eqq > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 4px);
+  height: calc(100% + 4px);
+}
+.freeBox__u8Eqq > :global(.__wab_flex-container) > *,
+.freeBox__u8Eqq > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__u8Eqq > :global(.__wab_flex-container) > picture > img,
+.freeBox__u8Eqq
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 4px;
+}
+.slotTargetTitle {
+  font-weight: 700;
+}
+.slotTargetPackage {
+  font-family: B612 Mono;
+  color: #999999;
+  font-size: 16px;
+}
+.freeBox__ewvri {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  min-width: 0;
+}
+.slotTargetChildren {
+  font-size: 13px;
+}

@@ -1,0 +1,32 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 8px;
+}
+.freeBox {
+  display: block;
+  position: relative;
+  height: 8px;
+  width: 32px;
+  background: #ff44de;
+  flex-shrink: 0;
+}
+.text {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 1;
+  font-family: "Poppins", sans-serif;
+}

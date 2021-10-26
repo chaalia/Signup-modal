@@ -1,0 +1,154 @@
+.root {
+  display: flex;
+  width: 100%;
+  height: auto;
+  position: relative;
+  min-width: 0;
+}
+.freeBox__qtTw9 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 40px;
+  min-width: 0;
+}
+.freeBox__mepxl {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__mxYpr {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 20px;
+  height: 100%;
+  margin-right: 10px;
+  margin-left: 10px;
+  flex-shrink: 0;
+  min-height: 0;
+}
+.svg__ezGgz {
+  position: relative;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.starterBox {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100px;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  background: rgb(245, 247, 250);
+  flex-shrink: 0;
+  min-height: 0;
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .starterBox {
+    width: 30px;
+    flex-shrink: 0;
+  }
+}
+.starterBox__header {
+  background: rgb(255, 255, 255);
+}
+.slotTargetFree {
+  text-align: center;
+}
+.slotTargetFree__header {
+  color: rgb(50, 52, 54) /* plasmic-token: 6-9k9VEZ- */;
+}
+.freeBox___6COYr {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100%;
+  background: rgb(255, 230, 227);
+  flex-shrink: 0;
+  min-height: 0;
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .freeBox___6COYr {
+    width: 30px;
+    flex-shrink: 0;
+  }
+}
+.freeBox__header___6COYrUgN1M {
+  background: rgb(255, 255, 255);
+}
+.slotTargetPro {
+  text-align: center;
+}
+.slotTargetPro__header {
+  color: rgb(255, 104, 84) /* plasmic-token: 72YZYi8iC-aQ */;
+}
+.freeBox__kNdEw {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100%;
+  background: rgb(239, 255, 243);
+  flex-shrink: 0;
+  min-height: 0;
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .freeBox__kNdEw {
+    width: 30px;
+    flex-shrink: 0;
+  }
+}
+.freeBox__header__kNdEwUgN1M {
+  background: rgb(255, 255, 255);
+}
+.slotTargetTeam {
+  text-align: center;
+}
+.slotTargetTeam__header {
+  color: rgb(69, 189, 98) /* plasmic-token: NEdiZacoLfV */;
+}
+.freeBox__bnx1R {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100%;
+  background: rgb(224, 247, 255);
+  flex-shrink: 0;
+  min-height: 0;
+}
+@media (min-width: 0px) and (max-width: 640px) {
+  .freeBox__bnx1R {
+    width: 30px;
+    flex-shrink: 0;
+  }
+}
+.freeBox__header__bnx1RUgN1M {
+  background: rgb(255, 255, 255);
+}
+.slotTargetEnterprise {
+  text-align: center;
+}
+.slotTargetEnterprise__header {
+  color: rgb(4, 164, 244) /* plasmic-token: eI5XVwQOs8t */;
+}
